@@ -3,6 +3,10 @@
 # git checkout [branch name] - switches to that branch
 
 
+#Hello from Jess!
+
+
 puts "Hello from Audreana Lett!"
 puts "Goodbye."
+
 
